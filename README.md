@@ -182,10 +182,6 @@ pip install git+https://github.com/openai/openai-agents-sdk.git
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-MIT License - feel free to use this project for any purpose.
-
 ## Credits
 
 Built with [OpenAI Agents SDK](https://github.com/openai/openai-agents-sdk) and [Gradio](https://gradio.app/).
